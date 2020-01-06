@@ -3,9 +3,9 @@ Telegram notification bot for connections/disconnections to Allstarlink Node. No
 
 ---
 ## Table of Contents
-- [Description](https://github.com/n8acl/aprstelegram#Description)
-- [Installation/Setup](https://github.com/n8acl/aprstelegram#Installation/Setup)
-- [Change Log](https://github.com/n8acl/aprstelegram#changelog)
+- [Description](https://github.com/n8acl/asltelegramnotify#Description)
+- [Installation/Setup](https://github.com/n8acl/asltelegramnotify#Installation/Setup)
+- [Change Log](https://github.com/n8acl/asltelegramnotify#changelog)
 
 ---
 
