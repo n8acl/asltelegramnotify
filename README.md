@@ -5,6 +5,7 @@ Telegram notification bot for connections/disconnections to Allstarlink Node. No
 ## Table of Contents
 - [Description](https://github.com/n8acl/asltelegramnotify#Description)
 - [Installation/Setup](https://github.com/n8acl/asltelegramnotify#Installation/Setup)
+- [Contact Me](https://github.com/n8acl/asltelegramnotify#contact)
 - [Change Log](https://github.com/n8acl/asltelegramnotify#changelog)
 
 ---
@@ -70,6 +71,7 @@ my_token = 'YOUR_TELEGRAM_BOT_KEY_TOKEN_HERE' #token that can be generated talki
 my_chat_id = 'YOUR_CHAT_ID_HERE' # chat_id must be a number!
 
 ```
+When editing the config file and copying in your keys, make sure to leave the single quotes around the tokens, otherwise the program will not know how to handle the token keys.
 
 You can test the scripts by using the following command:
 
@@ -115,8 +117,20 @@ Example:
 ```bash
 ALLSTAR ALERT: Node 1999 connected to 12345
 ```
+---
+
+## Contact
+If you have questions, please feel free to reach out to me. You can reach me in one of the following ways:
+
+- Twitter: @n8acl
+- Telegram: @ravendos
+- E-mail: n8acl@protonmail.com
+
+If you reach out to me, please include what error you are getting and what you were doing. I may also ask you to send me certain files to look at. 
 
 ---
 
 ## Change Log
 * 01/05/2020 - Initial release 1.0 
+* 03/09/2020 - Updated: README to include comment to keep the single quotes around the token keys.
+             - Added: Added Contact Me section to README
